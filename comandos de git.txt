@@ -20,6 +20,7 @@ ramas en git
 (git branch -m nombre de la rama)= podemos crear algunas ramas
 (git status) = podemos ver el estado
 (git add) = podemos ayadir las carpetas a la rama
+(git add . )= Guarda todo los archivo al area de guardado
 (git commit -m "frase que quieres poner") = esto para poner una pequena nota 
 (git log) = nos muestra si realizamos un commit 
 (git log --graph) = nos da una mejor vision de las ramas
@@ -39,3 +40,7 @@ para recuperar un commit
 
 etiquetas
 (git tag nombre de version) = nos permite nombrar una version de un proyecto
+
+creando ramas y moviendo por ellas
+(git switch) = nos permite cambiar de ramas
+(git br o branch) = nos permite crear ramas   
