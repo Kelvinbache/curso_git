@@ -1,0 +1,41 @@
+comandos basicos de git
+
+saber donde estoy:
+
+(pwd) = nos muestra donde estamos ubicados
+(mkdir) = crear una carpeta
+
+configuracion de git: son las configuraciones mas importantes de git
+(git config --globlal user.name "nombre del usuario") = configuracion del nombre
+
+(git config --globlal user.email "correo del usuario") = configuracion del correo
+
+crear un nuevo documento
+(touch) = podemos crear un documentos 
+
+(git init) = creamos un repositorio
+
+ramas en git
+
+(git branch -m nombre de la rama)= podemos crear algunas ramas
+(git status) = podemos ver el estado
+(git add) = podemos ayadir las carpetas a la rama
+(git commit -m "frase que quieres poner") = esto para poner una pequena nota 
+(git log) = nos muestra si realizamos un commit 
+(git log --graph) = nos da una mejor vision de las ramas
+
+forma de regresar atra
+(checkout nombre del achivo) = nos permite una forma rapida de regresar atras
+(reset) = nos permite vver que archivo podemos cambiar al original
+(diff) = nos muestra los archivos cambiados
+crear comandos en git
+(git alias.nombre del comando) = nos permite gran un comando // pero tenemos que usar la configuracion
+
+borrar fotografia
+(git --hard id) = nos permite borrar una fotografia alla ellas
+
+para recuperar un commit
+(git reflog) = nos muestra el historial de los commit
+
+etiquetas
+(git tag nombre de version) = nos permite nombrar una version de un proyecto
