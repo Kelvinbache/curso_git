@@ -44,3 +44,6 @@ etiquetas
 creando ramas y moviendo por ellas
 (git switch) = nos permite cambiar de ramas
 (git br o branch) = nos permite crear ramas   
+
+juntar cambios
+(git merge nombre de la rama) = nos permite juntar cualquier cambio en otra rama
