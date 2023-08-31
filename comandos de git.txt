@@ -50,9 +50,13 @@ juntar cambios
 
 rama temporar
 (git stash) = nos crea un commit temporar donde podemos guardar codigo no terminado
+
+negar una cambio traido de otra rama
+(git checkout nombre del archivo y extencion) = aqui estamos viendo el poder que puede tener los checkout 
+
 ------------------------------------------------------------------------------------------------
 comando creados:
-git ci = commit -m 
+git co = commit -m 
 git st = status
 git brm = cambiar el nombre de la rama
 git br = crear una nueva rama
