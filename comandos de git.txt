@@ -47,3 +47,10 @@ creando ramas y moviendo por ellas
 
 juntar cambios
 (git merge nombre de la rama) = nos permite juntar cualquier cambio en otra rama
+
+------------------------------------------------------------------------------------------------
+comando creados:
+git ci = commit -m 
+git st = status
+git brm = cambiar el nombre de la rama
+git br = crear una nueva rama
