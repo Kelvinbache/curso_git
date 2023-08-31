@@ -54,6 +54,11 @@ rama temporar
 negar una cambio traido de otra rama
 (git checkout nombre del archivo y extencion) = aqui estamos viendo el poder que puede tener los checkout 
 
+como eliminar una rama
+(git branch -d) = nos permite elinar una rama 'consejo: ve elimunando las ramas que no necesites mas'
+
+como movernos por ramas eliminadas
+(git ccheckout id de la rama) = nos permite interactuar con la rama eliminada anteriormente
 ------------------------------------------------------------------------------------------------
 comando creados:
 git co = commit -m 
