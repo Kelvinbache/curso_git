@@ -48,6 +48,8 @@ creando ramas y moviendo por ellas
 juntar cambios
 (git merge nombre de la rama) = nos permite juntar cualquier cambio en otra rama
 
+rama temporar
+(git stash) = nos crea un commit temporar donde podemos guardar codigo no terminado
 ------------------------------------------------------------------------------------------------
 comando creados:
 git ci = commit -m 
